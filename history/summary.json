@@ -4,19 +4,19 @@
     "url": "$SECRET_URL_HOME",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 235,
-    "timeDay": 275,
-    "timeWeek": 238,
+    "timeDay": 254,
+    "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2021-02-14": 0
+      "2021-02-14": 22
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SECRET_URL_NYAM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nyam",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 1858,
-    "timeWeek": 1081,
-    "timeMonth": 957,
-    "timeYear": 927,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 921,
+    "timeDay": 1473,
+    "timeWeek": 1039,
+    "timeMonth": 949,
+    "timeYear": 921,
     "dailyMinutesDown": {
-      "2021-02-14": 0
+      "2021-02-14": 22
     }
   }
 ]
