@@ -4,10 +4,10 @@
     "url": "$SECRET_URL_HOME",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "79.32%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "79.20%",
+    "uptimeWeek": "97.03%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.60%",
     "time": 227,
@@ -16,6 +16,7 @@
     "timeMonth": 220,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2021-03-05": 2,
       "2021-03-04": 298,
       "2021-02-14": 22
     }
@@ -25,18 +26,19 @@
     "url": "$SECRET_URL_NYAM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nyam",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "77.02%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "77.01%",
     "uptimeWeek": "96.72%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 866,
     "timeDay": 694,
     "timeWeek": 730,
     "timeMonth": 833,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2021-03-05": 0,
       "2021-03-04": 331,
       "2021-02-14": 22
     }
