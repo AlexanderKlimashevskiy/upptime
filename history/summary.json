@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home",
     "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.94%",
     "time": 247,
-    "timeDay": 309,
-    "timeWeek": 268,
-    "timeMonth": 254,
+    "timeDay": 240,
+    "timeWeek": 253,
+    "timeMonth": 249,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-02-13": 12,
       "2022-02-02": 21,
       "2021-12-06": 20,
       "2021-10-15": 20,
@@ -31,8 +30,7 @@
       "2021-05-31": 1440,
       "2021-05-30": 334,
       "2021-03-05": 21,
-      "2021-03-04": 298,
-      "2021-02-14": 22
+      "2021-03-04": 298
     }
   },
   {
@@ -42,17 +40,16 @@
     "slug": "nyam",
     "status": "up",
     "uptime": "94.47%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "93.92%",
-    "time": 956,
-    "timeDay": 1195,
-    "timeWeek": 2674,
-    "timeMonth": 1292,
-    "timeYear": 963,
+    "time": 955,
+    "timeDay": 771,
+    "timeWeek": 2653,
+    "timeMonth": 1173,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2022-02-13": 10,
       "2022-02-09": 90,
       "2022-02-06": 75,
       "2022-01-31": 15,
@@ -104,8 +101,7 @@
       "2021-04-22": 649,
       "2021-03-17": 38,
       "2021-03-05": 19,
-      "2021-03-04": 331,
-      "2021-02-14": 22
+      "2021-03-04": 331
     }
   }
 ]
