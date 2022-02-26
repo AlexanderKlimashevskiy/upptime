@@ -38,7 +38,7 @@
     "url": "$SECRET_URL_NYAM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nyam",
-    "status": "up",
+    "status": "down",
     "uptime": "94.62%",
     "uptimeDay": "98.27%",
     "uptimeWeek": "99.58%",
@@ -50,6 +50,7 @@
     "timeMonth": 1170,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2022-02-26": 0,
       "2022-02-25": 25,
       "2022-02-20": 17,
       "2022-02-16": 46,
