@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 244,
-    "timeDay": 196,
-    "timeWeek": 242,
-    "timeMonth": 226,
-    "timeYear": 245,
+    "timeDay": 252,
+    "timeWeek": 234,
+    "timeMonth": 232,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2022-02-02": 21,
       "2021-12-06": 20,
@@ -37,16 +37,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nyam",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.46%",
-    "time": 984,
-    "timeDay": 648,
-    "timeWeek": 636,
-    "timeMonth": 1105,
-    "timeYear": 998,
+    "uptimeYear": "98.74%",
+    "time": 983,
+    "timeDay": 717,
+    "timeWeek": 632,
+    "timeMonth": 1109,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2022-04-24": 32,
       "2022-04-18": 33,
@@ -86,8 +86,7 @@
       "2021-06-02": 1265,
       "2021-06-01": 1440,
       "2021-05-31": 1440,
-      "2021-05-30": 334,
-      "2021-05-10": 298
+      "2021-05-30": 334
     }
   }
 ]
