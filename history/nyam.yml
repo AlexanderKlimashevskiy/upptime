@@ -1,7 +1,7 @@
 url: $SECRET_URL_NYAM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-22T22:23:32.571Z
+status: up
+code: 200
+responseTime: 739
+lastUpdated: 2022-06-22T22:33:06.196Z
 startTime: Fri Jan 08 2021 23:03:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
