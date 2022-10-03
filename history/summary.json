@@ -2,7 +2,7 @@
   {
     "name": "Home",
     "url": "$SECRET_URL_HOME",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home",
     "status": "up",
     "uptime": "99.39%",
@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 220,
-    "timeDay": 201,
-    "timeWeek": 165,
+    "time": 219,
+    "timeDay": 186,
+    "timeWeek": 159,
     "timeMonth": 170,
     "timeYear": 214,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
   {
     "name": "Nyam",
     "url": "$SECRET_URL_NYAM",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nyam",
     "status": "up",
     "uptime": "96.30%",
@@ -34,9 +34,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.47%",
     "time": 1067,
-    "timeDay": 1827,
-    "timeWeek": 938,
-    "timeMonth": 1449,
+    "timeDay": 730,
+    "timeWeek": 908,
+    "timeMonth": 1450,
     "timeYear": 1111,
     "dailyMinutesDown": {
       "2022-09-24": 82,
