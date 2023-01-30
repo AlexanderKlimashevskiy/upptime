@@ -4,7 +4,7 @@
     "url": "$SECRET_URL_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 188,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2023-01-30": 0,
       "2022-12-04": 17,
       "2022-11-25": 25,
       "2022-11-06": 309,
