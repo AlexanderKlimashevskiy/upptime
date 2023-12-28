@@ -11,10 +11,10 @@
     "uptimeMonth": "93.77%",
     "uptimeYear": "96.14%",
     "time": 195,
-    "timeDay": 307,
-    "timeWeek": 228,
-    "timeMonth": 212,
-    "timeYear": 199,
+    "timeDay": 145,
+    "timeWeek": 209,
+    "timeMonth": 208,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2023-12-12": 1428,
       "2023-12-11": 1299,
@@ -52,15 +52,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nyam",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.10%",
-    "time": 1238,
-    "timeDay": 1334,
-    "timeWeek": 868,
-    "timeMonth": 817,
+    "time": 1237,
+    "timeDay": 697,
+    "timeWeek": 840,
+    "timeMonth": 816,
     "timeYear": 1321,
     "dailyMinutesDown": {
       "2023-12-11": 285,
@@ -102,8 +102,7 @@
       "2023-03-15": 422,
       "2023-02-24": 24,
       "2023-02-09": 30,
-      "2023-02-03": 19,
-      "2022-12-28": 29
+      "2023-02-03": 19
     }
   }
 ]
