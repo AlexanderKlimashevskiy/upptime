@@ -1,7 +1,7 @@
 url: $SECRET_URL_NYAM
-status: down
-code: 523
-responseTime: 3226
-lastUpdated: 2025-05-12T23:07:30.931Z
+status: up
+code: 200
+responseTime: 608
+lastUpdated: 2025-05-13T03:08:09.118Z
 startTime: 2021-01-08T23:03:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
