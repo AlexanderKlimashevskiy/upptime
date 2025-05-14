@@ -4,10 +4,10 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Home
-    url: $SECRET_URL_HOME
-  - name: Nyam
-    url: $SECRET_URL_NYAM
+#  - name: Home
+#    url: $SECRET_URL_HOME
+#  - name: Nyam
+#    url: $SECRET_URL_NYAM
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
